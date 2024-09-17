@@ -1,4 +1,4 @@
-# Iris Dataset Analysis - README
+# Iris Dataset Analysis
 
 ## Overview
 
